@@ -60,11 +60,15 @@ risks associated with the spread of deceptive visual media.
 ### HARDWARE REQUIREMENTS
 
  8 GB RAM
+
  12 Gen Intel Core i5 – 1240P
 ### SOFTWARE REQUIREMENTS
  Python 3.11.6
+
  Streamlit
+
  Tensorflow
+
  Open CV
 ## Flow Diagram:
 ![image](https://github.com/Kumaravel655/deepfake/assets/75235334/5ee10597-d368-4fdc-a50e-3a1ded1d49b6)
